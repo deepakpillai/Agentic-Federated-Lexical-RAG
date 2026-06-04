@@ -1,0 +1,7 @@
+streamlit
+openai 
+msal 
+requests 
+python-dotenv 
+pydantic 
+PyMuPDF 
